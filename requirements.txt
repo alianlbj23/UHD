@@ -1,0 +1,2 @@
+# pygame-ce 與 pygame 都可以；pip 會依 Python 版本自動挑相容的版本
+pygame-ce>=2.1
